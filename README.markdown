@@ -1,5 +1,5 @@
-rack-php
-========
+mark-of-the-beast
+=================
 
 A thoroughly pointless recreation of PHP's URL string Easter-egg for Rack. Just
 in case you wanted to pretend your app was running on PHP.
