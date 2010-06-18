@@ -1,4 +1,4 @@
-mark-of-the-beast
+Mark of the Beast
 =================
 
 A thoroughly pointless recreation of PHP's URL string Easter-egg for Rack. Just
